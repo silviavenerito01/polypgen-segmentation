@@ -40,7 +40,7 @@ The project is based on the PolypGen dataset (not included due to data usage res
 ## Report
 
 Full project report available here:  
-[PolypGen Project Report](reports/polypgen_report.pdf)
+[PolypGen Project Report](reports/PolypGen_Challenge.pdf)
 
 ## Authors
 
